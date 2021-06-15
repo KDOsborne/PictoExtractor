@@ -8,4 +8,5 @@ SQLite Compile Instructions (Step 5): https://www.sqlite.org/howtocompile.html
   
   
 # Instructions
-Just run extractor.exe, select a database file, and create a save file for the data to be stored.
+To compile, just run make.  
+To use, just run extractor.exe, select a database file, and create a save file for the data to be stored.
