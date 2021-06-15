@@ -5,3 +5,7 @@ If porting to VS you WILL need to compile your own libsqlite3.lib file for linki
   
 SQLite DL: https://www.sqlite.org/download.html  
 SQLite Compile Instructions (Step 5): https://www.sqlite.org/howtocompile.html
+  
+  
+# Instructions
+Just run extractor.exe, select a database file, and create a save file for the data to be stored.
