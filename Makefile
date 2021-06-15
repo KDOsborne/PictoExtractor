@@ -1,6 +1,6 @@
 CC=gcc
-CFLAGS= -I./include -L. -Wall
-LIBS= -lsqlite3 -lcomdlg32
+CFLAGS= -I./include -L./lib -Wall
+LIBS= -lsqlite/sqlite3 -lcomdlg32
 SOURCES= $(wildcard src/*.c)
 
 all: extractor
