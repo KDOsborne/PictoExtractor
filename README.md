@@ -1,5 +1,5 @@
 # PictoExtractor
-Uses gcc and make to compile (32-bit). Should be pretty easy to port to VS if you want.   
+Uses gcc and make to compile (32-bit Windows). Should be pretty easy to port to VS if you want.   
 You might need to compile your own sqlite3.dll because gcc is weird with libraries.   
 If porting to VS you WILL need to compile your own libsqlite3 library for linking.  
   
